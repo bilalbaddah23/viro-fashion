@@ -1,0 +1,106 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-04.jpg",
+    "sha256": "9400d109ccbab398f77f5231bd732596d47cfd767c1add8e7b7e24c9856bceba",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-01.jpg",
+    "sha256": "e60d4c1b06affe49378fec6435d66a35ae0c10909f07453db2369d359cb6e975",
+    "originalDimensions": [
+      1080,
+      1080
+    ],
+    "webDimensions": [
+      1080,
+      1080
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-02.jpg",
+    "sha256": "91fd32707f3302271bf6cdac3dc51c008d8677bdd1b2cde34536074e35fdeec6",
+    "originalDimensions": [
+      1080,
+      1080
+    ],
+    "webDimensions": [
+      1080,
+      1080
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-08.jpg",
+    "sha256": "14528e2bebeea074349db4876745039ef5c70630bf5bea4c61b2bcc4679f80f2",
+    "originalDimensions": [
+      544,
+      640
+    ],
+    "webDimensions": [
+      544,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-09.jpg",
+    "sha256": "f141a89a95bafec344e9a8f2ac186524ef034cd6e3a9551e8b81072416f3155d",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-10.jpg",
+    "sha256": "691ac470fe6b4f508d1c497575bad724cc0368e1f1c6dd548f9a353ff8b04100",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-11.jpg",
+    "sha256": "a2e22299603b2042ba0987467e5647578e339cc13cf75ccb77ff444812d48551",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-12.jpg",
+    "sha256": "a63e5ef25120716eff55e3c1d6239bc5fe862bfacf329bf72e98b7a8e666a9cc",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  }
+]

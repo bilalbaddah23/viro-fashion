@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-17",
+  "checks": [
+    "Search, empty state, category filters and global suggestions",
+    "Saved favourite survives reload",
+    "Product thumbnail/zoom and bag add/quantity",
+    "Required feedback, draft/copy/edit with correct contact and no invented total",
+    "Style finder, gallery filter/viewer/next/Escape",
+    "Bag increase/removal and clear favourites"
+  ],
+  "responsive": [
+    {
+      "route": "/",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/shop",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/product/festive-snowflake-knit",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/lookbook",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/contact",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/checkout",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "additional360": {
+    "scrollWidth": 345,
+    "width": 360
+  },
+  "desktop": {
+    "heroLoaded": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  "result": "PASS",
+  "consoleErrors": [],
+  "screenshots": [
+    "desktop-home.jpg",
+    "mobile-home.jpg"
+  ],
+  "scope": "Local compiled ASP.NET10 release. No messages sent or VPS deployment."
+}

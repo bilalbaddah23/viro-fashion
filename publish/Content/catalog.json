@@ -1,0 +1,144 @@
+{
+  "brand": "Viro Fashion",
+  "contactMode": "whatsapp",
+  "phone": "96176480079",
+  "displayPhone": "+961 76 480 079",
+  "instagram": "https://www.instagram.com/viro_fashion/",
+  "hours": "Confirm with the team",
+  "hero": "/images/collection-02.jpg",
+  "story": "/images/collection-06.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg"
+  ],
+  "products": [
+    {
+      "id": "festive-snowflake-knit",
+      "name": "Festive Snowflake Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "Red long-sleeved knit look with a large white snowflake design, shown with coordinating festive accessories. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/viro_fashion/p/Dfzn9SIiLrx/"
+    },
+    {
+      "id": "cream-bow-knit-look",
+      "name": "Bow Knit Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Long-sleeved knit top with bow details and a matching short skirt shown in cream and pale-grey colour presentations. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/viro_fashion/p/DfznjxQiDNh/"
+    },
+    {
+      "id": "leopard-trim-lounge-look",
+      "name": "Leopard-Trim Lounge Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black top and matching relaxed trousers with contrasting leopard-print trim, shown together as a flat-lay outfit. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/viro_fashion/p/DfxuH_SJdhc/"
+    },
+    {
+      "id": "contrast-lined-jacket",
+      "name": "Contrast-Lined Jacket",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Dark jacket held open to show its contrasting light-coloured lining and trim in the shop’s public Reel cover. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/viro_fashion/reel/DfxnRf1Btq-/"
+    },
+    {
+      "id": "dark-zip-set",
+      "name": "Dark Zip Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Dark fitted zip-front top and matching wide-leg trousers shown as a coordinated look. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/viro_fashion/reel/DfxXcrNoQ2g/"
+    },
+    {
+      "id": "brown-cropped-outer-layer",
+      "name": "Brown Cropped Outer Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Brown cropped outer layer with a plush-looking finish, shown over a darker top and blue jeans. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/viro_fashion/reel/DfxW81BIr0B/"
+    },
+    {
+      "id": "burgundy-hooded-scarf-set",
+      "name": "Burgundy Hooded Scarf Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Burgundy hooded top and relaxed trousers pictured with a coordinating long scarf and contrasting light hood trim. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/viro_fashion/p/DfxVesriFy2/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

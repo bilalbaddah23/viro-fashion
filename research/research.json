@@ -1,0 +1,500 @@
+{
+  "brand": "Viro Fashion",
+  "handle": "viro_fashion",
+  "instagram": "https://www.instagram.com/viro_fashion/",
+  "contactMode": "whatsapp",
+  "phone": "96176480079",
+  "displayPhone": "+961 76 480 079",
+  "hours": "Confirm with the team",
+  "followersObserved": 50084,
+  "followersDisplay": "50K",
+  "postCountObserved": null,
+  "latestVisiblePost": "2026-11-16",
+  "researchDate": "2026-11-16",
+  "profileBio": "• Based in #beirut\n• Exchanging Policy Available -2 days\n• WhatsApp 76 48 00 79 or DM",
+  "bioLinks": [],
+  "branches": [],
+  "about": "Viro Fashion is a Beirut-based fashion page whose public collection includes coordinated outfits, knitwear and outer layers. Its Instagram bio lists WhatsApp and direct messages for enquiries and a two-day exchanging policy. Contact the team to confirm the exact products, current price, size, availability, delivery and full exchange conditions.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-10.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-04.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-08.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-09.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-10.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-11.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-12.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-01.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-02.jpg"
+  ],
+  "products": [
+    {
+      "id": "festive-snowflake-knit",
+      "name": "Festive Snowflake Knit",
+      "category": "Knitwear",
+      "description": "Red long-sleeved knit look with a large white snowflake design, shown with coordinating festive accessories. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/Dfzn9SIiLrx/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "cream-bow-knit-look",
+      "name": "Bow Knit Look",
+      "category": "Coordinated looks",
+      "description": "Long-sleeved knit top with bow details and a matching short skirt shown in cream and pale-grey colour presentations. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-01.jpg",
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfznjxQiDNh/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "leopard-trim-lounge-look",
+      "name": "Leopard-Trim Lounge Look",
+      "category": "Coordinated looks",
+      "description": "Black top and matching relaxed trousers with contrasting leopard-print trim, shown together as a flat-lay outfit. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfxuH_SJdhc/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "contrast-lined-jacket",
+      "name": "Contrast-Lined Jacket",
+      "category": "Outer layers",
+      "description": "Dark jacket held open to show its contrasting light-coloured lining and trim in the shop’s public Reel cover. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DfxnRf1Btq-/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "dark-zip-set",
+      "name": "Dark Zip Set",
+      "category": "Coordinated looks",
+      "description": "Dark fitted zip-front top and matching wide-leg trousers shown as a coordinated look. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DfxXcrNoQ2g/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "brown-cropped-outer-layer",
+      "name": "Brown Cropped Outer Layer",
+      "category": "Outer layers",
+      "description": "Brown cropped outer layer with a plush-looking finish, shown over a darker top and blue jeans. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DfxW81BIr0B/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "burgundy-hooded-scarf-set",
+      "name": "Burgundy Hooded Scarf Set",
+      "category": "Coordinated looks",
+      "description": "Burgundy hooded top and relaxed trousers pictured with a coordinating long scarf and contrasting light hood trim. Confirm current prices, availability, measurements, material, size and the exact included pieces with Viro Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfxVesriFy2/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "index": 1,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/541605735_18498619240069396_5069623095939388301_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=0zXxKp9tWEcQ7kNvwFhtvNr&_nc_oc=AdoB2LOYsHUfR4FYPBw98aqJ_8KPM2_27XGElA7LIqHYBlQX0pViCg4kcIpygLKBYNY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSNc6UzL2ulXOHmAx3MyxOzQ9cWzxEt73E3yqVqskdF-w&oe=6B0134BA",
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DOErsxlCP-E/",
+      "alt": "Video by V I R O   F A S H I O N💎 on September 01, 2025.",
+      "width": 360,
+      "height": 640,
+      "sha256": "a91ad91b6af48e983fa45e2f34b1ea868d862f6f70b9d25db4faa3776989b918",
+      "sourceImageType": "Native public Reel-cover JPEG; no video frames extracted",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": false,
+      "exclusionReason": "Old pinned 2025 footwear cover with historical price text; outside the current clothing edit.",
+      "postDate": "2025-09-01",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": true
+    },
+    {
+      "index": 2,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.75761-15/514600627_18488211148069396_4210082193015419452_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZekII0P7lTEQ7kNvwFn0SuJ&_nc_oc=AdoUluptZiBZRDmFqqcOtadpT3ZlCuXW64dgoHEonEtn31aHKhLR6xiCqVuM6ccus0Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTaEg7b74tBdorTPA7jIIqu9mDmp_k9SBaARWecduap4Q&oe=6B0139E6",
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DLiQrO1oBeJ/",
+      "alt": "Video by V I R O   F A S H I O N💎 on June 30, 2025.",
+      "width": 360,
+      "height": 640,
+      "sha256": "1d1a66ace6d5d263e162d01b83d7cebb664b1c03be8ed9763e818ff27007fa9a",
+      "sourceImageType": "Native public Reel-cover JPEG; no video frames extracted",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": false,
+      "exclusionReason": "Old pinned 2025 footwear cover; excluded from the current clothing edit.",
+      "postDate": "2025-06-30",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 3,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.75761-15/503800946_18485279707069396_5954615091514174412_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=3anGbxv3gv8Q7kNvwHaFbGZ&_nc_oc=AdpRhLxP-f-qmkqdKo0XbXBqUfRvbIzbsU3sLFbWTvnpjcnAbkGT04vO9rxYIWV2stU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTgMzxdx7kS8AgiwfERg2w45YGvdcJK5Mk1rD6JlmRIXQ&oe=6B01236B",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DK1up_cIaa4/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on June 13, 2025.",
+      "width": 640,
+      "height": 640,
+      "sha256": "eacc0a0a8455e37495c303a61ae4cdcaeb1bf219f2415671cc8d0d41705d6af2",
+      "sourceImageType": "Public photo/carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": false,
+      "exclusionReason": "Old pinned June2025 footwear photo; excluded from the current clothing edit.",
+      "postDate": "2025-06-13",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 4,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907002185_18604142464069396_7578943282419480979_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wyoii1iKQQcQ7kNvwH1lXia&_nc_oc=AdrOhXAQhUMwGu8Vh1Kumlabz_Ko_xcJA-LJWCEKCSxSF6t4-9GXowU0mPIvOnP5Ibc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQGiuPtDKlXOJRc4HhNnYWWVRV-BnJ1hq5OgkDO6c7EhQ&oe=6B012F3C",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/Dfzn9SIiLrx/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on November 16, 2026.",
+      "width": 640,
+      "height": 640,
+      "sha256": "9400d109ccbab398f77f5231bd732596d47cfd767c1add8e7b7e24c9856bceba",
+      "sourceImageType": "Public photo/carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-16",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 5,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910381211_18604142089069396_5332183226593119614_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=3I46rfMfMXsQ7kNvwHEnrmG&_nc_oc=AdolquPUz_tfYsarJl7_RtnqAr-yFIWTQec15ffKsGIBKl1gV-MMviZsw9eIIXEobOA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSsMOwGcdLY41AGc1keYRmyKnQIjcimU-3LtilxzBuG9Q&oe=6B0131C7",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfznjxQiDNh/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on November 16, 2026.",
+      "width": 640,
+      "height": 640,
+      "sha256": "b32d82640b5f72ccc0c4f2be1affebd96f32dacc91aa2eab7019acdbccdb0a39",
+      "sourceImageType": "Public photo/carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": false,
+      "exclusionReason": "Replaced by native1080px version of the same visual; do not duplicate thumbnail.",
+      "postDate": "2026-11-16",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 6,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/896777859_18604039900069396_4870509465430470376_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NQKXjTMU95MQ7kNvwGSif5c&_nc_oc=Adrv4cdOUOXDCFE70h07GMCLUsn66GJpJW50oFmwUQNH9h4pg_v9DZ-PF7LLuBrnsVM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTtLdLlIQP3nFeo2tgI9SMhHmYtNhLADp6SSqCgR3Oh_g&oe=6B01221A",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/Dfyz9M0IwK9/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on November 15, 2026. May be an image of pie and text.",
+      "width": 640,
+      "height": 640,
+      "sha256": "a384677bb1c6506a7dd499a97820f51fed8290e4e1f7f5453bb8073b72296ac4",
+      "sourceImageType": "Public photo/carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": false,
+      "exclusionReason": "Text-only post; not a garment photo.",
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 7,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/905483108_1578212554341722_163901678307800920_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Ju1jG-yomN4Q7kNvwElU0IU&_nc_oc=Adp_raGDCtSQNbSUZZyU5F25k2YyhTHGY7vfxQg8OVOQCb_UbtCft3I4ZffaRPhXcRA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTv3otKKNt1gkaPnOfLg4cGgdrGMu7iEPmLh04Q17kxbw&oe=6B011F40",
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DfyzioiIBmS/",
+      "alt": "Video by V I R O   F A S H I O N💎 on November 15, 2026. May be an image of face mask, eye patch, sweatpants, glasses, sweatsuit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "e59d716118eef6f901d876f600911119543bf0e84c7a7ddb3c8b691e08dfb986",
+      "sourceImageType": "Native public Reel-cover JPEG; no video frames extracted",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": false,
+      "exclusionReason": "Letterboxed Reel cover; excluded in favour of clearer full-photo clothing images.",
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 8,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904512472_18603915307069396_8105182896523270850_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jm6zb8510VcQ7kNvwH1KaCA&_nc_oc=Adr-7xXhJ9q6ruMkay1F6tMthK_HVNAOPGrJFyTD5FuEVHgaPpEKaladwnmAfttE9KY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRAHaknoflXSaf7IyBWZeZb1TwSv5X7H859ICZanM4LWA&oe=6B014305",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfxuH_SJdhc/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on November 15, 2026.",
+      "width": 544,
+      "height": 640,
+      "sha256": "14528e2bebeea074349db4876745039ef5c70630bf5bea4c61b2bcc4679f80f2",
+      "sourceImageType": "Public photo/carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 9,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/905569106_1784305726197459_4676610317189797931_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Nrdvkm0iWsEQ7kNvwF3cbBf&_nc_oc=Adq3Dr3KCHYZqhqrcYbMiDZfe43vuUdyO3SMvIVwKk139pmKvCLwHvMxxqinDUe_BLI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ_fC3YmrnF0kuWpcjxk2hGX-EVqOoRGEw9g9e3Vv3x-A&oe=6B013282",
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DfxnRf1Btq-/",
+      "alt": "Video by V I R O   F A S H I O N💎 on November 15, 2026. May be an image of jacket, clothes hanger, turtleneck and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "f141a89a95bafec344e9a8f2ac186524ef034cd6e3a9551e8b81072416f3155d",
+      "sourceImageType": "Native public Reel-cover JPEG; no video frames extracted",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 10,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/909503189_3294585014060741_2633482184924089747_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kEDb329ZzLwQ7kNvwG6Olpk&_nc_oc=AdpiGPuT1s7_YfD4LA62nHT27P32jiGFSF0rZ_Xt2wDfrO4g5Na-mzz65TEheyniwFk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR_NRzIlUTgPvwo0Z7h0-FbKPrtpzA_ZLgZ8MG-wkOHLw&oe=6B0138AB",
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DfxXcrNoQ2g/",
+      "alt": "Video by V I R O   F A S H I O N💎 on November 15, 2026. May be an image of blazer, jumpsuit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "691ac470fe6b4f508d1c497575bad724cc0368e1f1c6dd548f9a353ff8b04100",
+      "sourceImageType": "Native public Reel-cover JPEG; no video frames extracted",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 11,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/912217400_1183040824382362_951166237257273620_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ktb9smAXDngQ7kNvwGHdX7T&_nc_oc=AdoQNEAyd2llLglCx5qzXtzpvqNMZId8JPLdSQdibw8OSm7-K2mteWcOA-Y6hh1Nt6g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTIzMxPurZZmMFf0w5Axs5IhIN016SzZQ4xXCNUbt8iAA&oe=6B01339C",
+      "sourcePost": "https://www.instagram.com/viro_fashion/reel/DfxW81BIr0B/",
+      "alt": "Video by V I R O   F A S H I O N💎 on November 15, 2026. May be an image of sable coat, turtleneck and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "a2e22299603b2042ba0987467e5647578e339cc13cf75ccb77ff444812d48551",
+      "sourceImageType": "Native public Reel-cover JPEG; no video frames extracted",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "index": 12,
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/906156548_18603865174069396_2690780641361309891_n.webp?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2C4fdACDAoAQ7kNvwFGJirR&_nc_oc=AdqT4qJOecp0u8KJY5lObNpqXACN03zqT0wPpNBPrSzeq2YHEQLQsbs8Nf_obpLrMSw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vZg1x1_uqKM5VaZD7kp2hw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTpX73l5q0faeeeLHFqktnm06wpWglG9y3xNEd6Wwlpdg&oe=6B012CE9",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfxVesriFy2/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on November 15, 2026.",
+      "width": 640,
+      "height": 640,
+      "sha256": "a63e5ef25120716eff55e3c1d6239bc5fe862bfacf329bf72e98b7a8e666a9cc",
+      "sourceImageType": "Public photo/carousel still",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Exact root-observed rendered public Instagram DOM currentSrc; downloaded without URL modification or upscaling.",
+      "selected": true,
+      "exclusionReason": null,
+      "postDate": "2026-11-15",
+      "aiLabelObserved": null,
+      "visualReview": "Own business-posted public garment still or native Reel cover; contact sheet and selected hero reviewed 2026-11-16. No generated assets, resizing URL manipulation, upscaling or video frame extraction. Underlying photo ownership/authenticity and branded-product authenticity are not independently established.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-01.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/910381211_18604142089069396_5332183226593119614_n.webp?_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMTczOTkxNjM5NzM0OTY4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3I46rfMfMXsQ7kNvwHEnrmG&_nc_oc=AdolquPUz_tfYsarJl7_RtnqAr-yFIWTQec15ffKsGIBKl1gV-MMviZsw9eIIXEobOA&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=0yzjwQ4SQReJjo9GtkBrdw&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRgOdtqpyhj3v4o1dZ_9THLdOc5_j252HHWNerfw1eUiw&oe=6B0131C7",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfznjxQiDNh/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on November 16, 2026. May be an image of dress, sweater, turtleneck, cardigan, knit and text.",
+      "width": 1080,
+      "height": 1080,
+      "sha256": "e60d4c1b06affe49378fec6435d66a35ae0c10909f07453db2369d359cb6e975",
+      "sourceImageType": "Native public photo-carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-16",
+      "selected": true,
+      "observationMethod": "Exact root-observed public carousel image source; no URL manipulation or upscaling.",
+      "visualReview": "Native main-post photos; thumb is replaced rather than duplicated. Underlying photo ownership/authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "aiLabelObserved": null
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov16-five-new\\viro-fashion\\assets\\viro-cream-native-02.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/901311655_18604142098069396_2909461691922090808_n.webp?_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMTczOTkxOTkxMjMwNzExMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EDQlp-D12FIQ7kNvwG6-P0y&_nc_oc=Adq1spM0GLKiJK0hcPLYh4-yIYfAhBHDWwCxsyGHmmmeS4Ie-IbWy1hYdZdN3Yoo8AU&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=0yzjwQ4SQReJjo9GtkBrdw&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRX36zCmKkjmySqJt1LP_J2J-YcaNd8A9bEMvXjQx6XCA&oe=6B011527",
+      "sourcePost": "https://www.instagram.com/viro_fashion/p/DfznjxQiDNh/",
+      "alt": "Photo by V I R O   F A S H I O N💎 on November 16, 2026. May be an image of dress and text.",
+      "width": 1080,
+      "height": 1080,
+      "sha256": "91fd32707f3302271bf6cdac3dc51c008d8677bdd1b2cde34536074e35fdeec6",
+      "sourceImageType": "Native public photo-carousel still",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-16",
+      "selected": true,
+      "observationMethod": "Exact root-observed public carousel image source; no URL manipulation or upscaling.",
+      "visualReview": "Native main-post photos; thumb is replaced rather than duplicated. Underlying photo ownership/authenticity not independently verified.",
+      "currentPriceVerified": false,
+      "bakedPriceTextObserved": false,
+      "aiLabelObserved": null
+    }
+  ],
+  "websiteScreening": {
+    "observedDate": "2026-11-16",
+    "instagram": "https://www.instagram.com/viro_fashion/",
+    "result": "No matching official website found in root-reviewed full public Instagram bio/links and bounded exact handle/business/contact searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"viro_fashion\" Beirut shop website",
+      "\"76480079\" Viro",
+      "\"96176480079\""
+    ],
+    "primaryProfileReviewed": true,
+    "allBioLinksReviewed": true,
+    "bioLinkReview": "Root inspected the rendered public profile on 2026-11-16. Bio contains Based in Beirut, exchanging policy and local WhatsApp number. No external business website link was visible; the Threads social link is not a shop website.",
+    "contactEvidence": "Root-observed bio: WhatsApp 76 48 00 79 or DM. Country prefix +961 is inferred from the explicitly Beirut-based Lebanese business and normalized for a WhatsApp deep link; the public bio itself supplies the local number without an international prefix. Root also verified the current cream-knit caption explicitly says For Orders DM or WhatsApp76480079.",
+    "contactNormalization": {
+      "publicLocalNumber": "76 48 00 79",
+      "inferredCountry": "Lebanon",
+      "countryPrefix": "961",
+      "internationalDigits": "96176480079"
+    },
+    "collisionsExcluded": [
+      {
+        "url": "https://www.fashyas.com/EG/Cairo/843351029190471/VIRO-Fashion",
+        "reason": "Cairo VIRO Fashion with different Egyptian phone/address and handle viro.fashion.store. Not the target Beirut account."
+      },
+      {
+        "url": "https://www.galaxus.ch/en/s5/product/fabulous-foiling-toner-card-stock-autumn-shades-6-pieces-ft-121-outlet-more-craft-materials-76480079",
+        "reason": "Unrelated product item number76480079; not business contact evidence."
+      }
+    ],
+    "limitations": "No owner outreach was made. Search absence cannot establish that no unlisted website exists."
+  },
+  "activityEvidence": [
+    {
+      "source": "https://www.instagram.com/viro_fashion/p/Dfzn9SIiLrx/",
+      "date": "2026-11-16",
+      "observation": "Root-observed public own-post photo alt identifies Viro Fashion and November16,2026."
+    },
+    {
+      "source": "https://www.instagram.com/viro_fashion/p/DfznjxQiDNh/",
+      "date": "2026-11-16",
+      "observation": "Second root-observed own photo post on November16 confirms recent clothing activity."
+    }
+  ],
+  "restrictions": [
+    "Eight selected current clothing stills: two native1080x1080 cream-knit-carousel photos, three other photo stills at544-640px, and three native public Reel covers at360-361x640. The lower-resolution cream thumb is replaced, not duplicated. No video file, extracted frame, generated imagery or upscaling.",
+    "Three old pinned2025 footwear images, the text-only post and letterboxed cover are excluded. Do not present their old prices as current offers.",
+    "No precise branch address, opening hours, delivery fees, product materials, stock, prices or branded authenticity has been verified. Keep all such details subject to owner confirmation.",
+    "The profile provides a local Beirut WhatsApp number. International +961 normalization is documented as an inference; no different contact number is invented.",
+    "No AI-content-label assertion is made because the root profile export does not establish it. Underlying photo ownership/authenticity is not independently verified."
+  ],
+  "sources": [
+    {
+      "url": "https://www.instagram.com/viro_fashion/",
+      "kind": "Primary public profile: root-rendered bio, links and exact post-image DOM export"
+    },
+    {
+      "url": "https://www.instagram.com/viro_fashion/p/Dfzn9SIiLrx/",
+      "kind": "Public photo/carousel still"
+    },
+    {
+      "url": "https://www.instagram.com/viro_fashion/p/DfznjxQiDNh/",
+      "kind": "Public photo/carousel still"
+    },
+    {
+      "url": "https://www.instagram.com/viro_fashion/p/DfxuH_SJdhc/",
+      "kind": "Public photo/carousel still"
+    },
+    {
+      "url": "https://www.instagram.com/viro_fashion/reel/DfxnRf1Btq-/",
+      "kind": "Native public Reel-cover JPEG; no video frames extracted"
+    },
+    {
+      "url": "https://www.instagram.com/viro_fashion/reel/DfxXcrNoQ2g/",
+      "kind": "Native public Reel-cover JPEG; no video frames extracted"
+    },
+    {
+      "url": "https://www.instagram.com/viro_fashion/reel/DfxW81BIr0B/",
+      "kind": "Native public Reel-cover JPEG; no video frames extracted"
+    },
+    {
+      "url": "https://www.instagram.com/viro_fashion/p/DfxVesriFy2/",
+      "kind": "Public photo/carousel still"
+    }
+  ]
+}
